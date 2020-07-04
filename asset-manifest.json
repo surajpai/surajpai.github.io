@@ -1,24 +1,23 @@
 {
   "files": {
     "main.css": "/static/css/main.7bd4d867.chunk.css",
-    "main.js": "/static/js/main.cbd5f117.chunk.js",
-    "main.js.map": "/static/js/main.cbd5f117.chunk.js.map",
+    "main.js": "/static/js/main.835cfe26.chunk.js",
+    "main.js.map": "/static/js/main.835cfe26.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.8cbcbd1e.js",
     "runtime-main.js.map": "/static/js/runtime-main.8cbcbd1e.js.map",
-    "static/js/2.8adc85b3.chunk.js": "/static/js/2.8adc85b3.chunk.js",
-    "static/js/2.8adc85b3.chunk.js.map": "/static/js/2.8adc85b3.chunk.js.map",
+    "static/js/2.2d86f7df.chunk.js": "/static/js/2.2d86f7df.chunk.js",
+    "static/js/2.2d86f7df.chunk.js.map": "/static/js/2.2d86f7df.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.670cc66e46800e5fd5b5b98db5c16c15.js": "/precache-manifest.670cc66e46800e5fd5b5b98db5c16c15.js",
+    "precache-manifest.3c22b33ebd676d92d54e053f608a6652.js": "/precache-manifest.3c22b33ebd676d92d54e053f608a6652.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.7bd4d867.chunk.css.map": "/static/css/main.7bd4d867.chunk.css.map",
-    "static/js/2.8adc85b3.chunk.js.LICENSE.txt": "/static/js/2.8adc85b3.chunk.js.LICENSE.txt",
-    "static/js/main.cbd5f117.chunk.js.LICENSE.txt": "/static/js/main.cbd5f117.chunk.js.LICENSE.txt",
+    "static/js/2.2d86f7df.chunk.js.LICENSE.txt": "/static/js/2.2d86f7df.chunk.js.LICENSE.txt",
+    "static/js/main.835cfe26.chunk.js.LICENSE.txt": "/static/js/main.835cfe26.chunk.js.LICENSE.txt",
     "static/media/antoine-barres.jpg": "/static/media/antoine-barres.dfbf459c.jpg",
     "static/media/ayo-ogunseinde-2.jpg": "/static/media/ayo-ogunseinde-2.bfc688ca.jpg",
     "static/media/clem-onojeghuo-2.jpg": "/static/media/clem-onojeghuo-2.bb4b9ac9.jpg",
     "static/media/clem-onojeghuo-3.jpg": "/static/media/clem-onojeghuo-3.ae11d928.jpg",
     "static/media/clouds.png": "/static/media/clouds.61c4e000.png",
-    "static/media/creative-tim-white-slim2.png": "/static/media/creative-tim-white-slim2.df0cdbfb.png",
     "static/media/daniel-olahh.jpg": "/static/media/daniel-olahh.facbbdb7.jpg",
     "static/media/erik-lucatero-2.jpg": "/static/media/erik-lucatero-2.2051e0e8.jpg",
     "static/media/fabio-mangione.jpg": "/static/media/fabio-mangione.f26c34bb.jpg",
@@ -37,8 +36,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.8cbcbd1e.js",
-    "static/js/2.8adc85b3.chunk.js",
+    "static/js/2.2d86f7df.chunk.js",
     "static/css/main.7bd4d867.chunk.css",
-    "static/js/main.cbd5f117.chunk.js"
+    "static/js/main.835cfe26.chunk.js"
   ]
 }
