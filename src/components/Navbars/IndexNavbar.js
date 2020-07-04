@@ -68,10 +68,9 @@ function IndexNavbar() {
           <NavbarBrand
             data-placement="bottom"
             href="/index"
-            target="_blank"
-            title="Coded by Creative Tim"
+            title="Home"
           >
-            Paper Kit React
+            Home
           </NavbarBrand>
           <button
             aria-expanded={navbarCollapse}
@@ -94,18 +93,7 @@ function IndexNavbar() {
             <NavItem>
               <NavLink
                 data-placement="bottom"
-                href="https://twitter.com/CreativeTim?ref=creativetim"
-                target="_blank"
-                title="Follow us on Twitter"
-              >
-                <i className="fa fa-twitter" />
-                <p className="d-lg-none">Twitter</p>
-              </NavLink>
-            </NavItem>
-            <NavItem>
-              <NavLink
-                data-placement="bottom"
-                href="https://www.facebook.com/CreativeTim?ref=creativetim"
+                href="https://www.facebook.com/surpai"
                 target="_blank"
                 title="Like us on Facebook"
               >
@@ -116,7 +104,7 @@ function IndexNavbar() {
             <NavItem>
               <NavLink
                 data-placement="bottom"
-                href="https://www.instagram.com/CreativeTimOfficial?ref=creativetim"
+                href="https://www.instagram.com/suraj.pai"
                 target="_blank"
                 title="Follow us on Instagram"
               >
@@ -127,7 +115,7 @@ function IndexNavbar() {
             <NavItem>
               <NavLink
                 data-placement="bottom"
-                href="https://www.github.com/CreativeTimOfficial/paper-kit-react?ref=creativetim"
+                href="https://www.github.com/surajpai/"
                 target="_blank"
                 title="Star on GitHub"
               >
@@ -140,7 +128,7 @@ function IndexNavbar() {
                 href="https://demos.creative-tim.com/paper-kit-react/#/documentation?ref=pkr-index-navbar"
                 target="_blank"
               >
-                <i className="nc-icon nc-book-bookmark" /> Documentation
+                <i className="nc-icon nc-book-bookmark" /> Contact
               </NavLink>
             </NavItem>
             <NavItem>
@@ -148,10 +136,8 @@ function IndexNavbar() {
                 className="btn-round"
                 color="danger"
                 href="#pablo"
-                target="_blank"
-                disabled
               >
-                Upgrade to Pro
+                Show me more
               </Button>
             </NavItem>
           </Nav>
