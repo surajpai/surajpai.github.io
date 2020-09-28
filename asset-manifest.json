@@ -1,19 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.7bd4d867.chunk.css",
-    "main.js": "/static/js/main.835cfe26.chunk.js",
-    "main.js.map": "/static/js/main.835cfe26.chunk.js.map",
+    "main.css": "/static/css/main.51226d25.chunk.css",
+    "main.js": "/static/js/main.1a036955.chunk.js",
+    "main.js.map": "/static/js/main.1a036955.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.8cbcbd1e.js",
     "runtime-main.js.map": "/static/js/runtime-main.8cbcbd1e.js.map",
-    "static/js/2.2d86f7df.chunk.js": "/static/js/2.2d86f7df.chunk.js",
-    "static/js/2.2d86f7df.chunk.js.map": "/static/js/2.2d86f7df.chunk.js.map",
+    "static/js/2.e706d9b5.chunk.js": "/static/js/2.e706d9b5.chunk.js",
+    "static/js/2.e706d9b5.chunk.js.map": "/static/js/2.e706d9b5.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.3c22b33ebd676d92d54e053f608a6652.js": "/precache-manifest.3c22b33ebd676d92d54e053f608a6652.js",
+    "precache-manifest.f263524d6c027392e0dcc6b330dc7a44.js": "/precache-manifest.f263524d6c027392e0dcc6b330dc7a44.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.7bd4d867.chunk.css.map": "/static/css/main.7bd4d867.chunk.css.map",
-    "static/js/2.2d86f7df.chunk.js.LICENSE.txt": "/static/js/2.2d86f7df.chunk.js.LICENSE.txt",
-    "static/js/main.835cfe26.chunk.js.LICENSE.txt": "/static/js/main.835cfe26.chunk.js.LICENSE.txt",
-    "static/media/antoine-barres.jpg": "/static/media/antoine-barres.dfbf459c.jpg",
+    "static/css/main.51226d25.chunk.css.map": "/static/css/main.51226d25.chunk.css.map",
+    "static/js/2.e706d9b5.chunk.js.LICENSE.txt": "/static/js/2.e706d9b5.chunk.js.LICENSE.txt",
+    "static/js/main.1a036955.chunk.js.LICENSE.txt": "/static/js/main.1a036955.chunk.js.LICENSE.txt",
     "static/media/ayo-ogunseinde-2.jpg": "/static/media/ayo-ogunseinde-2.bfc688ca.jpg",
     "static/media/clem-onojeghuo-2.jpg": "/static/media/clem-onojeghuo-2.bb4b9ac9.jpg",
     "static/media/clem-onojeghuo-3.jpg": "/static/media/clem-onojeghuo-3.ae11d928.jpg",
@@ -22,7 +21,6 @@
     "static/media/erik-lucatero-2.jpg": "/static/media/erik-lucatero-2.2051e0e8.jpg",
     "static/media/fabio-mangione.jpg": "/static/media/fabio-mangione.f26c34bb.jpg",
     "static/media/federico-beccari.jpg": "/static/media/federico-beccari.1331ba97.jpg",
-    "static/media/fog-low.png": "/static/media/fog-low.7812184c.png",
     "static/media/ilya-yakover.jpg": "/static/media/ilya-yakover.efe05368.jpg",
     "static/media/joe-gardner-2.jpg": "/static/media/joe-gardner-2.76ff47ae.jpg",
     "static/media/joshua-stannard.jpg": "/static/media/joshua-stannard.8a26aabc.jpg",
@@ -36,8 +34,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.8cbcbd1e.js",
-    "static/js/2.2d86f7df.chunk.js",
-    "static/css/main.7bd4d867.chunk.css",
-    "static/js/main.835cfe26.chunk.js"
+    "static/js/2.e706d9b5.chunk.js",
+    "static/css/main.51226d25.chunk.css",
+    "static/js/main.1a036955.chunk.js"
   ]
 }
