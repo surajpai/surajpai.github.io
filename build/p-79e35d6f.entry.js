@@ -1,1 +1,0 @@
-import{r as s,h as t}from"./p-6f15ff19.js";const i=class{constructor(t){s(this,t)}render(){return t("div",{class:"flex"},t("div",{class:"bold width-500"},this.name),t("div",{class:"width-500"},this.value))}};i.style="";export{i as p_technical_expertise}
